@@ -1,4 +1,4 @@
-let jonSnowHealth = 100
+let jonSnowHealth = 100 // remember to open "4.17 lecture" in 1-week > 5friday > homework
 
 jonSnowHealth = String(jonSnowHealth)
 
